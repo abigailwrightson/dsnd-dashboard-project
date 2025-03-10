@@ -1,7 +1,8 @@
 
-# Software Engineering for Data Scientists 
+# Software Engineering for Data Scientists Project 
 
-This repository contains starter code for the **Software Engineering for Data Scientists** final project. Please reference your course materials for documentation on this repository's structure and important files. Happy coding!!!
+This repository contains code for the **Software Engineering for Data Scientists** final project.
+This code generates a dashboard that allows managers to monitor an employee's performance and their predicted risk of recruitment.
 
 ### Repository Structure
 ```
@@ -9,7 +10,7 @@ This repository contains starter code for the **Software Engineering for Data Sc
 ├── assets
 │   ├── model.pkl
 │   └── report.css
-├── env
+├── project_env
 ├── python-package
 │   ├── employee_events
 │   │   ├── __init__.py
@@ -35,6 +36,7 @@ This repository contains starter code for the **Software Engineering for Data Sc
 │   ├── dashboard.py
 │   └── utils.py
 ├── requirements.txt
+├── MANIFEST.in
 ├── start
 ├── tests
     └── test_employee_events.py
